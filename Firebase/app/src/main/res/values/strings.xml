@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="facebook_application_id">307370936293064</string>
+    <string name="title_activity_google">google</string>
+</resources>

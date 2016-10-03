@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "865825340035",
+    "firebase_url": "https://fir-test-f88a5.firebaseio.com",
+    "project_id": "fir-test-f88a5",
+    "storage_bucket": "fir-test-f88a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865825340035:android:59ca3e3697db90cb",
+        "android_client_info": {
+          "package_name": "com.example.balaji.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865825340035-s5sdhcqr7aefkjgnpmqlo79h9o9b8tqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.balaji.firebase",
+            "certificate_hash": "6616F314383D521FD15CF1AC77E88594901D4BA5"
+          }
+        },
+        {
+          "client_id": "865825340035-7mcblhcmmgb0khaglroqrn0mivojqo66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaSrEVhYr8AJ-7W5ZG0DbvFns8V_xAWcw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
